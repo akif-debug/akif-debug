@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aakif Mansoori</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=akif-debug"
-      alt="akif-debug"
-  /></a>
-</p>
 
-- 🌱 I’m currently learning **React.Js** - 👨‍💻 All of my projects are available
-at [https://aakif.netlify.app/](https://aakif.netlify.app/) - 💬 Ask me about
-**Front End Development** - 📫 How to reach me **akifmansoori8287@gmail.com**
+- 🌱 I’m currently learning **React.Js**
+- 👨‍💻 All of my projects are available at [https://aakif.netlify.app/](https://aakif.netlify.app/)
+- 💬 Ask me about **Front End Development**
+- 📫 How to reach me **akifmansoori8287@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
