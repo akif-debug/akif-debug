@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakif Mansoori</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **Node.Js**
 - 👨‍💻 All of my projects are available at [https://aakif.netlify.app/](https://aakif.netlify.app/)
 - 💬 Ask me about **Front End Development**
 - 📫 How to reach me **akifmansoori8287@gmail.com**
