@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Node.Js**
+- 👨‍💻 Current Project: Youtube Clone
 - 👨‍💻 All of my projects are available at [https://aakif.netlify.app/](https://aakif.netlify.app/)
 - 💬 Ask me about **Front End Development**
 - 📫 How to reach me **akifmansoori8287@gmail.com**
