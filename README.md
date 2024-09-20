@@ -133,7 +133,7 @@
 <!--Made By Sabyasachi-->
 <div align="center" >
    <a href="https://github.com/akif-debug">
-   <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/akif-debug" /></a>
+   <img width=100% src="https://github.com/user-attachments/assets/8976f461-0116-4353-a92c-1ffa643bf072" href="https://github.com/akif-debug" /></a>
 </div>
 <div align=center>
    <a href="https://github.com/akif-debug">
