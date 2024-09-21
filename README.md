@@ -177,39 +177,38 @@
       </a>
    </a>
    <p>
-      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="12.5%" height="12.5%" /> 
+     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/user-attachments/assets/0fd91093-c55b-423f-bba0-a9d942c859f1" alt="javascript" width="110px" height="110px" />
       </a>
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="12.5%" height="12.5%" />
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/user-attachments/assets/6a87e0fe-d54a-4cea-8c76-3f3df37ce44f" alt="react" width="120px" height="120px" />
       </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="12.5%" height="12.5%" />
-      </a>
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/user-attachments/assets/beb57a5b-ea06-49e2-886c-39a5011134fb" alt="bootstrap" width="120px" height="120px" />
       </a>
    </p>
    <h2></h2>
    <p>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="12.5%" height="12.5%" />
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="12.5%" height="12.5%" />
+     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/user-attachments/assets/95e54052-0ab1-477a-8a02-18281863e5dd" alt="html5" width="120px" height="120px" />
       </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="12.5%" height="12.5%" />
+      <img src="https://github.com/user-attachments/assets/cbd2341b-7af1-4fe3-99b9-7e5f70f21106" alt="css3" width="120px" height="120px" />
+      </a>
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/user-attachments/assets/192753b1-ede6-45bb-ab86-abf9d190d8cb" alt="sass" width="120px" height="120px" />
       </a>
    </p>
    <h2></h2>
    <p>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="12.5%" height="12.5%" />
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/user-attachments/assets/633f376d-f2df-4b5d-b5b8-2978c93bc3d2" alt="git" width="120px" height="120px" />
       </a>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="12.5%" height="12.5%" />
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/user-attachments/assets/27e04ee0-b98a-46af-a1a5-377459541f24" alt="jira" width="120px" height="120px" />
       </a>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="12.5%" height="12.5%" />
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/user-attachments/assets/2d6377eb-019f-49f0-ae47-84e7f3752e25" alt="photoshop" width="120px" height="120px" />
       </a>
    </p>
 </div>
