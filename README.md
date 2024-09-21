@@ -133,7 +133,7 @@
 <!--Made By Sabyasachi-->
 <div align="center" >
    <a href="https://github.com/akif-debug">
-   <img src="https://github.com/user-attachments/assets/5cfb9485-a687-47df-ac0d-4d84a3193016" style="border-radius:"40px";" width="100%" height="100%" href="https://github.com/akif-debug" /></a>
+   <img src="https://github.com/user-attachments/assets/5cfb9485-a687-47df-ac0d-4d84a3193016" width="100%" height="100%" href="https://github.com/akif-debug" /></a>
 </div>
 <div align=center>
    <a href="https://github.com/akif-debug">
