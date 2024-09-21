@@ -218,10 +218,10 @@
 </div>
 <div align="left">
 <a href="https://github.com/akif-debug">
-<img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
+<img align="right" width=40% alt="Github" src="https://github.com/user-attachments/assets/13b4194a-a6da-4f08-aaec-1c81d890f7c7">
 </a>
 <br>
-<a href="https://sabyasachi-seal.github.io">
+<a href="https://aakif.netlify.app/">
 <img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachi-seal.github.io" />
 </a>
 <br>
@@ -229,20 +229,15 @@
 <img width=45% height=40% src="https://komarev.com/ghpvc/?username=Sabyasachi-Seal&style=for-the-badge&color=blueviolet"/>
 </a>
 <br>
-<a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
-<img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-seal-4461711bb/)](https://www.linkedin.com/in/sabyasachi-seal-4461711bb/"/>
+<a href="https://www.linkedin.com/in/aakif-mansoori-091b5413a/">
+<img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakif-mansoori-091b5413a/)](https://www.linkedin.com/in/aakif-mansoori-091b5413a/"/>
 </a>
-<br>
-<a href="https://www.qwiklabs.com/public_profiles/e3e3af1f-e2c8-48b5-ae19-175dee7b6ef5">
-<img width=45% height=100% src="https://img.shields.io/badge/-Google Cloud Badges-ff69b4?style=for-the-badge&logo=googlecloud&logoColor=white&link=https://www.qwiklabs.com/public_profiles/e3e3af1f-e2c8-48b5-ae19-175dee7b6ef5"/>
-</a>
-<br>
-<a href="https://leetcode.com/sabyasachiseal/">
-<img width=45% height=95% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/sabyasachiseal/"/>
+  <a href="https://www.instagram.com/aakiff.qadri/">
+<img width=45% height=100% src="https://img.shields.io/badge/-Chat with Me-yellow?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/aakiff.qadri/)](https://www.instagram.com/aakiff.qadri/"/>
 </a>
 <div align=center>
    <a href="https://github.com/akif-debug">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   <img height=50 width=100% src="https://github.com/user-attachments/assets/61bd8e3b-ff3e-42dd-9a21-c12d4c4d655b">
    </a>
 </div>
 <h2 align="center"><a href="https://github.com/akif-debug"><img alt="Star" width=20% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/star.gif"><img width=80% alt="My Stats" src="./img/mystats.svg"/></a></h2>
