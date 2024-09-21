@@ -137,7 +137,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/akif-debug">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   <img height=50 width=100% src="https://github.com/user-attachments/assets/61bd8e3b-ff3e-42dd-9a21-c12d4c4d655b">
    </a>
 </div>
 <h1 align="center"><a href="https://github.com/akif-debug"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> I'm a
@@ -164,7 +164,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/akif-debug">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   <img height=50 width=100% src="https://github.com/user-attachments/assets/61bd8e3b-ff3e-42dd-9a21-c12d4c4d655b">
    </a>
 </div>
 <div align="right">
@@ -173,7 +173,6 @@
       </h2>
       <a href="https://github.com/akif-debug">
          <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
-         <!-- https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif -->
       </a>
    </a>
    <p>
@@ -214,7 +213,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/akif-debug">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   <img height=50 width=100% src="https://github.com/user-attachments/assets/61bd8e3b-ff3e-42dd-9a21-c12d4c4d655b">
    </a>
 </div>
 <div align="left">
