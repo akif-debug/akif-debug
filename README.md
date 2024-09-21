@@ -142,7 +142,7 @@
 </div>
 <h1 align="center"><a href="https://github.com/akif-debug"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> I'm a
    <a href="https://github.com/akif-debug">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;Tech+Blogger" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Web+Technology+Enthusiast;Frontend+Passionate;Frontend+Design+Practitioner;Computer+Science+Undergrad;" />
    </a>
 </h1>
 <div align=center>
