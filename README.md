@@ -133,7 +133,7 @@
 <!--Made By Sabyasachi-->
 <div align="center" >
    <a href="https://github.com/akif-debug">
-   <img width=100% src="https://github.com/user-attachments/assets/5cfb9485-a687-47df-ac0d-4d84a3193016" href="https://github.com/akif-debug" /></a>
+   <img width=100% src="https://github.com/user-attachments/assets/5cfb9485-a687-47df-ac0d-4d84a3193016" height="50%" href="https://github.com/akif-debug" /></a>
 </div>
 <div align=center>
    <a href="https://github.com/akif-debug">
@@ -155,7 +155,7 @@
       <br>
       👯 I’m looking to collaborate on:
       <a href="https://github.com/akif-debug">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Data+Science;AI+Projects;Web+Apps;Ecommerce+App;Frontend+Development;" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Data+Science;AI+Projects;Web+Apps;Ecommerce+Apps;Frontend+Development;" /></a>
       <br>
       💬 Talk to me all about:
       <a href="https://github.com/akif-debug">
